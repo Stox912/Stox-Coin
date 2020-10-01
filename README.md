@@ -1,0 +1,2 @@
+# Stox-Coin
+Auction Coin
